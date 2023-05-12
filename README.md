@@ -23,7 +23,7 @@ This is a simple React app that allows users to log in using Snapchat and displa
 2. Navigate to the project directory:
 
    ```bash
-   cd snapchat-login-react-app
+   cd snapchat-login
    ```
 
 3. Install dependencies:
