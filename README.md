@@ -17,7 +17,7 @@ This is a simple React app that allows users to log in using Snapchat and displa
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JacobLopez1/snapchat-login
    ```
 
 2. Navigate to the project directory:
