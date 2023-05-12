@@ -1,3 +1,7 @@
+# DEMO
+![demo1](https://github.com/JacobLopez1/snapchat-login/assets/56767597/7b58f330-3d90-4be6-828e-a5e1f6cff986)
+![demo2](https://github.com/JacobLopez1/snapchat-login/assets/56767597/34fd1340-e13f-40c5-9d44-8fba9cd5012a)
+![demo3](https://github.com/JacobLopez1/snapchat-login/assets/56767597/a83ebd9d-2326-4dad-8642-c22ec46da642)
 
 # Snapchat Login React App
 
